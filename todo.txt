@@ -13,4 +13,9 @@ MY TO-DO LIST
 11. Check exam schedule. 
 12. New element.
 13. Yessss.
+<<<<<<< HEAD
 14. missing row.
+=======
+15. norow
+16. am
+>>>>>>> da16d4cd43cfde094f74cf69d696f11b21c3cf46
