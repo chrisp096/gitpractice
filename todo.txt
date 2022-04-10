@@ -17,5 +17,8 @@ MY TO-DO LIST
 14. missing row.
 =======
 15. norow
+<<<<<<< HEAD
 16. am
 >>>>>>> da16d4cd43cfde094f74cf69d696f11b21c3cf46
+=======
+>>>>>>> c5aa8ee0ba95ccab20e93af3e4d6725c5bad2ae3
